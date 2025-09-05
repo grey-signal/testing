@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+testing,tech.zeta.java.junit,Person,26,39,4,4,5,9,7,4,3,4
+testing,tech.zeta.java.junit,MyClass,0,8,0,0,0,2,0,2,0,2
+testing,tech.zeta.java.junit,Calculator,8,35,3,3,1,7,3,7,0,7
+testing,tech.zeta.java.junit,EmailValidator,0,17,1,5,0,2,1,4,0,2
+testing,tech.zeta.java.junit,Rectangle,0,20,0,4,0,3,0,4,0,2
+testing,tech.zeta.java.junit,PersonTest,45,0,2,0,11,0,3,0,2,0
+testing,tech.zeta.java.junit,NumberChecker,41,17,10,2,5,3,8,3,2,3
+testing,tech.zeta.java.junit,ImmutableString,0,16,0,0,0,5,0,3,0,3
+testing,tech.zeta,Main,21,0,2,0,5,0,3,0,2,0

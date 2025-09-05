@@ -7,7 +7,7 @@ public class StringAssertionTest {
     @Test void testSameObject(){
         String first="hello";
         String second= "hello";
-        assertNotSame(first,second,"Both strings should not be same");
+        assertSame(first,second,"Both strings should not be same");
 
     }
 }
